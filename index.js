@@ -14,6 +14,9 @@ console.log(thaiAddr.provinces());
 console.log('Get entries which has zip code 10130');
 console.log(thaiAddr.findByZip('10130'));
 
+console.log('Get provinces which has zip code 10130');
+console.log(thaiAddr.provinces('10130'));
+
 console.log('Get districts in สมุทรปราการ');
 console.log(thaiAddr.districts('11000000'));
 
