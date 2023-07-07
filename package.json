@@ -4,7 +4,7 @@
     "js": "node index.js"
   },
   "dependencies": {
-    "@chonla/thai-address": "1.2.0",
+    "@chonla/thai-address": "1.2.1",
     "lodash": "4.17.21"
   }
 }
